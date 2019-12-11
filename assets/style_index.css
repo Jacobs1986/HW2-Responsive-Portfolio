@@ -27,3 +27,22 @@
         left: -147px;
     }
 }
+
+@media screen and (max-width: 640px) {
+    #mainsection {
+        width: 90%;
+        position: relative;
+        left: -20px;
+        height: 600px;
+    }
+
+    #biopic {
+        width: 50%;
+        float: none;
+        align
+    }
+
+    p {
+        margin-left: 10px;
+    }
+}
