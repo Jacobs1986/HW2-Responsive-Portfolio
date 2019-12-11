@@ -1,6 +1,7 @@
 header {
     background-color: #ffffff;
     margin: 10px auto;
+    width: 100%;
 }
 
 header h1 {
@@ -93,7 +94,15 @@ footer {
 @media screen and (max-width:980px) {
     body {
         background-color: purple;
-    } 
+    }
+
+    header h1 {
+        left: 2%;
+    }
+    
+    h2 {
+        width: 95%;
+    }
 }
 
 @media screen and (max-width:768px) {

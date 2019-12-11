@@ -13,7 +13,10 @@
 }
 
 @media screen and (max-width: 980px) {
-    
+    #mainsection {
+        width: 75%;
+        margin: 0;
+    }
 }
 
 @media screen and (max-width: 768px) {
