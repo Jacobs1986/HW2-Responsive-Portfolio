@@ -13,11 +13,7 @@
 }
 
 @media screen and (max-width: 980px) {
-    #mainsection {
-        width: 75%;
-        position: relative;
-        left: -125px;
-    }
+    
 }
 
 @media screen and (max-width: 768px) {

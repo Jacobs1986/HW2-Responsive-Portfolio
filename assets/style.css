@@ -89,26 +89,13 @@ footer {
     padding-top: 20px;
 }
 
-@media screen and (max-width: 980px) {
+@media screen and (max-width:980px) {
     body {
         background-color: purple;
     } 
-    h1 {
-        margin-left: 20px;
-    }
-    .links {
-        position: relative;
-        left: -40px;
-    }
-    #maincontent {
-        width: 980px;
-    }
-    h2 {
-        width: 94%;
-    }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width:768px) {
     body {
         background-color: red;
     }
@@ -121,7 +108,7 @@ footer {
     }
 }
 
-@media screen and (max-width: 640px) {
+@media screen and (max-width:640px) {
     body {
         background-color: green;
     }
