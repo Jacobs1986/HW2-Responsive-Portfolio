@@ -112,10 +112,23 @@ footer {
     body {
         background-color: red;
     }
+    .links {
+        position: relative;
+        left: -270px;
+    }
+    #maincontent {
+        width 768px;
+    }
 }
 
 @media screen and (max-width: 640px) {
     body {
         background-color: green;
+        width: 640px;
+    }
+    header h1 {
+        width: 100%;
+    }
+    .links {
     }
 }

@@ -19,3 +19,11 @@
         left: -125px;
     }
 }
+
+@media screen and (max-width: 768px) {
+    #mainsection {
+        width: 70%;
+        position: relative;
+        left: -147px;
+    }
+}
