@@ -109,12 +109,9 @@ footer {
     body {
         background-color: red;
     }
-    .links {
-        position: relative;
-        left: -270px;
-    }
-    #maincontent {
-        width: 768px;
+    
+    header a {
+        right: 3%;
     }
 }
 
@@ -122,23 +119,10 @@ footer {
     body {
         background-color: green;
     }
-    header {
-        width: 100%;
-    }
-    header h1 {
-        float: none;
-        position: relative;
-        left: -20px;
-        text-align: center;
-        width: 100%;
-    }
-    .links {
-        position: relative;
-        top: -20px;
-        left: -160px;
-    }
 
-    #maincontent {
-        width: 100%;
+    header a {
+        right: 20%;
+        top: -20px;
+        left: -200px;
     }
 }
