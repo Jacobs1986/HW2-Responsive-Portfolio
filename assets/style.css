@@ -58,6 +58,8 @@ footer {
     padding: 20px;
     height: 920px;
     border-bottom: 5px solid #4aaaa5;
+    position: relative;
+    top: -10px;
 }
 
 #maincontent::after {
@@ -77,6 +79,8 @@ footer {
     text-align: center;
     background-color: #666666;
     padding-top: 20px;
+    position: relative;
+    top: -10px;
 }
 
 #footer-text {
