@@ -29,14 +29,17 @@ header a {
     text-decoration: none;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 
-a, div, footer {
+a,
+div,
+footer {
     font-family: Arial, Helvetica, sans-serif;
-    color: #777777 ; 
+    color: #777777;
 }
 
 #aboutlink {
@@ -55,13 +58,13 @@ a, div, footer {
     border-bottom: 5px solid #4aaaa5;
 }
 
-#maincontent::after  {
+#maincontent::after {
     content: "";
     display: block;
     clear: both;
 }
 
-#mainsection::after  {
+#mainsection::after {
     content: "";
     display: block;
     clear: both;
@@ -78,4 +81,22 @@ footer {
     color: white;
     bottom: 0;
     padding-top: 20px;
+}
+
+@media screen and (max-width: 980px) {
+    body {
+        background-color: purple;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        background-color: red;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    body {
+        background-color: green;
+    }
 }
