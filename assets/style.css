@@ -127,7 +127,11 @@ footer {
         width: 640px;
     }
     header h1 {
-        width: 100%;
+        width: 60%;
+        float: none;
+        position: relative;
+        left: -20px;
+        text-align: center;
     }
     .links {
     }
