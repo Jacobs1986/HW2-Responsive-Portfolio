@@ -92,13 +92,19 @@ footer {
 @media screen and (max-width: 980px) {
     body {
         background-color: purple;
-        width: 980px;
-    }
+    } 
     h1 {
         margin-left: 20px;
     }
+    .links {
+        position: relative;
+        left: -40px;
+    }
     #maincontent {
-        margin-left: 10px;
+        width: 980px;
+    }
+    h2 {
+        width: 94%;
     }
 }
 
