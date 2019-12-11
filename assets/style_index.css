@@ -27,11 +27,17 @@
 }
 
 @media screen and (max-width: 640px) {
-    header h1 {
-        clear: both;
-        left: 0;
+    #mainsection {
+        height: 80%;
+    }
+
+    #biopic {
+        width: 93%;
         float: none;
     }
 
-    
+    p {
+        margin-top: 2%;
+        margin-left: 2%;
+    }
 }
