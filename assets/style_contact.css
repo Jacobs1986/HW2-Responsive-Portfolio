@@ -1,0 +1,21 @@
+form {
+    margin-left: 20px;
+}
+
+#enterName, #enterEmail, #message {
+    margin-top: 5px;
+}
+
+#contactarea {
+    width: 960px;
+    margin: 0px auto;
+    background-color: white;
+    height: 450px;
+}
+
+#submit {
+    background-color: #4aaaa5;
+    border: none;
+    color: white;
+    padding: 9px 20px;
+}

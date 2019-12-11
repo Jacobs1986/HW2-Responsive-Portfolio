@@ -1,0 +1,59 @@
+#items {
+    width: 960px;
+    margin: 0px auto;
+    background-color: white;
+    height: 890px;
+}
+
+.picture {
+    width: 30%;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    position: relative;
+}
+
+#secondphoto {
+    left: -280px;
+}
+
+#fourthphoto {
+    left: -280px;
+}
+
+h3.photoid {
+    float: left;
+    position: relative;
+    background-color: #4aaaa5;
+    width: 288px;
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#hangman {
+    left: -308px;
+    top: 150px;
+}
+
+#RPGgame {
+    left: 356px;
+    bottom: 66px;
+}
+
+#trivia {
+    left: -308px;
+    top: 150px;
+}
+
+#widget {
+    left: 356px;
+    bottom: 66px;
+}
+
+#rockpaper {
+    left:-308px;
+    top: 150px;
+}

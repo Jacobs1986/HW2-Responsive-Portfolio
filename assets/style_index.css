@@ -1,0 +1,13 @@
+#biopic {
+    width: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+#mainsection {
+    width: 960px;
+    margin: 0px auto;
+    background-color: white;
+    height: 400px;
+}
