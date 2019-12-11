@@ -1,6 +1,5 @@
 header {
     background-color: #ffffff;
-    width: 960px;
     margin: 10px auto;
 }
 
@@ -11,9 +10,9 @@ header h1 {
     text-align: center;
     font-size: 35px;
     float: left;
-    width: 30%;
     position: relative;
     top: -10px;
+    left: 25%;
 }
 
 h2 {
@@ -29,6 +28,8 @@ header a {
     float: right;
     margin-top: 25px;
     text-decoration: none;
+    position: relative;
+    right: 25%;
 }
 
 h1,
