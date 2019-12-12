@@ -89,4 +89,16 @@ h3.photoid {
     #widget {
         bottom: 197px;
     }
+
+    #fifthphoto {
+        bottom: 150px;
+    }
+
+    #rockpaper {
+        top: -1px;
+    }
+
+    footer {
+        
+    }
 }
