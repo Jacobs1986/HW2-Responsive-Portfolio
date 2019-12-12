@@ -77,8 +77,16 @@ h3.photoid {
         bottom: 70px;
     }
 
+    #trivia {
+        top: 80px;
+    }
+
     #fourthphoto {
         left: 8px;
         bottom: 130px;
+    }
+
+    #widget {
+        bottom: 197px;
     }
 }
