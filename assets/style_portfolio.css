@@ -14,11 +14,11 @@
 }
 
 #secondphoto {
-    left: -280px;
+    left: -29.1%;
 }
 
 #fourthphoto {
-    left: -280px;
+    left: -29.1%;
 }
 
 h3.photoid {
@@ -56,4 +56,16 @@ h3.photoid {
 #rockpaper {
     left:-308px;
     top: 150px;
+}
+
+@media screen and (max-width: 980px) {
+    #items {
+        width: 75%;
+        margin: 0;
+    }
+
+    #secondphoto {
+        position: absolute;
+        right: 
+    }
 }
