@@ -19,3 +19,14 @@ form {
     color: white;
     padding: 9px 20px;
 }
+
+@media screen and (max-width: 980px) {
+    #contactarea {
+        width: 75%;
+        margin: 0;
+    }
+
+    #enterName, #enterEmail, #message {
+        width: 97%;
+    }
+}
