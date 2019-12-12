@@ -6,7 +6,7 @@
 }
 
 .picture {
-    width: 30%;
+    width: 288px;
     margin-left: 20px;
     margin-right: 20px;
     float: left;
@@ -14,11 +14,11 @@
 }
 
 #secondphoto {
-    left: -29.1%;
+    left: -280px;
 }
 
 #fourthphoto {
-    left: -29.1%;
+    left: -280px;
 }
 
 h3.photoid {
@@ -65,7 +65,15 @@ h3.photoid {
     }
 
     #secondphoto {
-        position: absolute;
-        right: 
+        left: 8px;
+        top: -61px;
+    }
+
+    #RPGgame {
+        bottom: 126px;
+    }
+
+    #thirdphoto {
+        bottom: 70px;
     }
 }
