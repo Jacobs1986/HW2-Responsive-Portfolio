@@ -30,3 +30,9 @@ form {
         width: 97%;
     }
 }
+
+@media screen and (max-width: 768px) {
+    #contactarea {
+        width: 100%;
+    }
+}
