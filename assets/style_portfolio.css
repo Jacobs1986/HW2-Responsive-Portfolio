@@ -108,3 +108,44 @@ h3.photoid {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 640px) {
+    #maincontent {
+        height: 100%;
+    }
+
+    #items {
+        height: 1500px;
+    }
+    .picture {
+        margin-left: 25%;
+        margin-right: 0;
+        position: unset;
+        float: none;
+    }
+
+    #hangman {
+        left: 142px;
+        top: -66px;
+    }
+
+    #RPGgame {
+        left: 142px;
+        top: -70px;
+    }
+
+    #trivia {
+        left: 142px;
+        top: -70px;
+    }
+
+    #widget {
+        left: 142px;
+        bottom: 70px;
+    }
+
+    #rockpaper {
+        left: 142px;
+        top: -67px;
+    }
+}
