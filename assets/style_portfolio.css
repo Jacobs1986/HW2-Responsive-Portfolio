@@ -99,6 +99,12 @@ h3.photoid {
     }
 
     footer {
-        
+        top: -61px;
+    }
+}
+
+@media screen and (max-width: 780px) {
+    #items {
+        width: 100%;
     }
 }
